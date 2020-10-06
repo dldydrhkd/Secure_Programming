@@ -1,0 +1,9 @@
+127.0.0.1 - - [06/Oct/2020:19:21:17 +0900] GET /WebGoat HTTP/1.1 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/ HTTP/1.1 302 - http-bio-8080-exec-3 624
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/login.mvc HTTP/1.1 200 3150 http-bio-8080-exec-4 145
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/plugins/bootstrap/css/bootstrap.min.css HTTP/1.1 200 99961 http-bio-8080-exec-5 3
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/css/font-awesome.min.css HTTP/1.1 200 17780 http-bio-8080-exec-6 2
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/css/animate.css HTTP/1.1 200 59837 http-bio-8080-exec-2 2
+127.0.0.1 - - [06/Oct/2020:19:21:18 +0900] GET /WebGoat/css/main.css HTTP/1.1 200 19986 http-bio-8080-exec-7 2
+127.0.0.1 - - [06/Oct/2020:19:21:19 +0900] GET /WebGoat/css/img/logoBG.jpg HTTP/1.1 200 17885 http-bio-8080-exec-9 2
+127.0.0.1 - - [06/Oct/2020:19:21:19 +0900] GET /WebGoat/images/favicon.ico HTTP/1.1 404 1003 http-bio-8080-exec-9 2
