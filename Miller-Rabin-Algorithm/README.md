@@ -39,9 +39,10 @@
       + x가 1이거나 n-1이면 Prime임을 알린다 (페라마 소 정리)
       
       + 1부터 t-1까지 반복       (NSR)
-                
-                + x 후 = (x 전)^2 mod n 함
-                + x 가 n-1 이면 break을 하여 Composite임을 알림
+      
+        * x 후 = (x 전)^2 mod n 함
+        
+        * x 가 n-1 이면 break을 하여 Composite임을 알림
       
 >### 인터페이스 및 사용법
 
